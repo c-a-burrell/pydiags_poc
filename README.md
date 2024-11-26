@@ -37,3 +37,15 @@ that I tried to use. After looking at
 [one of the issues on the GitHub](https://github.com/mingrammer/diagrams/issues/746), I was able to solve the issue 
 (I basically had to move the folder in which I was storing the images), but I do think that the site (and example) 
 could have been a bit clearer about how the path to the custom images files were being resolved.
+
+When I first came across this library, I was tempted to attempt creating some sort of JSON or YAML layer
+on top of this library so that non-developers would be able to make use of this functionality. After thinking about this, 
+I came to the conclusion that such an undertaking would result in a **very** cumbersome DSL that would require some pretty 
+dedicated resources for a fair amount of time; besides, the Python layer is pretty thin and fairly intuitive anyway.
+
+## Links
+* Diagrams
+  * [Project Page](https://diagrams.mingrammer.com/)
+  * [GitHub](https://github.com/mingrammer/diagrams)
+* [Graphviz](https://www.graphviz.org/)
+* [Make](https://www.gnu.org/software/make/)
