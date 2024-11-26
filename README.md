@@ -47,5 +47,6 @@ dedicated resources for a fair amount of time; besides, the Python layer is pret
 * Diagrams
   * [Project Page](https://diagrams.mingrammer.com/)
   * [GitHub](https://github.com/mingrammer/diagrams)
+    * There is also a [Go port](https://github.com/blushft/go-diagrams) of this library.
 * [Graphviz](https://www.graphviz.org/)
 * [Make](https://www.gnu.org/software/make/)
